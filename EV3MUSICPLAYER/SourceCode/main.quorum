@@ -1,0 +1,14 @@
+use Libraries.Robots.Lego.Button //
+use Libraries.Robots.Lego.Sound
+use Libraries.Robots.Lego.Screen
+use Libraries.Robots.Lego.Utility
+
+Button button//instacate libraries 
+Sound sound
+Screen screen
+Utility utility
+
+sound:Buzz()
+
+
+// autio player
